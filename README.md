@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Now: Probably working on an exiting project in React, JS, WordPress, Svelte, Gatsby, or Next.
+
+Web Developer, Sailor, Stargazer, Hockey Player, and all around fun guy... but my absolute favorite thing is being a dad
+
+Contact: joe@astucc.io
+
 <!--
 **jastuccio/jastuccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
