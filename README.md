@@ -1,6 +1,6 @@
 ####  👨🏻‍💻 Now:
 
-Probably working on an exiting project in React, WordPress, JS, Svelte, Gatsby, or Next.
+Probably working on an exiting project in React (or Next) and planning my next outdoor adventure.
 
 #### ⚡ ⛵️ Fun facts:
 
