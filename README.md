@@ -1,12 +1,14 @@
-####  👨🏻‍💻 Now:
+#### 👨🏻‍💻 Now:
 
-Probably working on an exiting project in React (or Next) and planning my next outdoor adventure.
+Probably working on an exciting project in [Shopify](https://shopify.dev/), [Svelte](https://svelte.dev/), (or [Astro!](https://astro.build)) and planning my next outdoor adventure.
 
 #### ⚡ ⛵️ Fun facts:
 
 Web Developer, Sailor, Stargazer, Hockey Player, and all around fun guy... but my absolute favorite thing is being a dad
 
-#### ✉️ Contact: joe@astucc.io 
+#### ✉️ Contact: joe@astucc.io
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Joe Astuccio's Dev Card"/></a>
 
 <!--
 **jastuccio/jastuccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
