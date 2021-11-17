@@ -8,7 +8,7 @@ Web Developer, Sailor, Stargazer, Hockey Player, and all around fun guy... but m
 
 #### ✉️ Contact: joe@astucc.io
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Joe Astuccio's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jastuccio/jastuccio/blob/master/devcard.svg" width="400" alt="Joe Astuccio's Dev Card"/></a>
 
 <!--
 **jastuccio/jastuccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
